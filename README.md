@@ -8,4 +8,4 @@ ID|	Title|	My Solution|
 
 [10016](https://platform.stratascratch.com/coding/10016-churn-rate-of-lyft-drivers?code_type=6)|Churn rate of Lyft Driver |[PySpark](https://github.com/ubiswas28/PySpark-Practice-StrataScratch/blob/main/Churn%20Rate%20Of%20Lyft%20Driver.py)
 
-[2040](https://platform.stratascratch.com/coding/2040-customers-report-summary?code_type=6)|Customer Report Summary|[PySpark](https://github.com/ubiswas28/PySpark-Practice-StrataScratch/upload/main)
+[2040](https://platform.stratascratch.com/coding/2040-customers-report-summary?code_type=6)|Customer Report Summary|[PySpark](https://github.com/ubiswas28/PySpark-Practice-StrataScratch/blob/main/Customer_Report_Summary.py)
