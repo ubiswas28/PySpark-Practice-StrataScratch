@@ -12,4 +12,6 @@ ID|	Title|	My Solution|
 
 [2032](https://platform.stratascratch.com/coding/2032-signups-by-billing-cycle?code_type=6)|Signups By Billing Cycle|[PySpark](https://github.com/ubiswas28/PySpark-Practice-StrataScratch/blob/main/Signups%20By%20Billing%20Cycle.py)
 
+[2143](https://platform.stratascratch.com/coding/2143-invalid-bank-transactions?code_type=6)|invalid-bank-transactions|[PySpark](https://github.com/ubiswas28/PySpark-Practice-StrataScratch/blob/main/invalid-bank-transactions.py)
+
 [2031](https://platform.stratascratch.com/coding/2031-transactions-by-billing-method-and-signup-id?code_type=6)|transactions by billing method and signup_id|[PySpark](https://github.com/ubiswas28/PySpark-Practice-StrataScratch/blob/main/transactions-by-billing-method-and-signup-id.py)
