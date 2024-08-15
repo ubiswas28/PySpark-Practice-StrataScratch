@@ -19,3 +19,5 @@ ID|	Title|	My Solution|
 [2031](https://platform.stratascratch.com/coding/2031-transactions-by-billing-method-and-signup-id?code_type=6)|transactions by billing method and signup_id|[PySpark](https://github.com/ubiswas28/PySpark-Practice-StrataScratch/blob/main/transactions-by-billing-method-and-signup-id.py)
 
 [[2161](https://platform.stratascratch.com/coding/2161-least-popular-video?code_type=6)|least_popular_video|[PySpark](https://github.com/ubiswas28/PySpark-Practice-StrataScratch/blob/main/least_popular_video.py)
+
+[10358](https://platform.stratascratch.com/coding/10358-friday-purchases?code_type=6)|Friday Purchases |[PySpark](https://github.com/ubiswas28/PySpark-Practice-StrataScratch/blob/main/Friday_Purchases.py)
