@@ -23,3 +23,5 @@ ID|	Title|	My Solution|
 # SQL-Practice-StrataScratch_Hard_Level_Difficulty
 
 [10358](https://platform.stratascratch.com/coding/10358-friday-purchases?code_type=6)|Friday Purchases |[PySpark](https://github.com/ubiswas28/PySpark-Practice-StrataScratch/blob/main/Friday_Purchases.py)
+
+[10319](https://platform.stratascratch.com/coding/10319-monthly-percentage-difference?code_type=6)|Monthly Percentage Difference|[PySpark](https://github.com/ubiswas28/PySpark-Practice-StrataScratch/blob/main/Monthly_Percentage_Difference.py)
