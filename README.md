@@ -25,3 +25,5 @@ ID|	Title|	My Solution|
 [10358](https://platform.stratascratch.com/coding/10358-friday-purchases?code_type=6)|Friday Purchases |[PySpark](https://github.com/ubiswas28/PySpark-Practice-StrataScratch/blob/main/Friday_Purchases.py)
 
 [10319](https://platform.stratascratch.com/coding/10319-monthly-percentage-difference?code_type=6)|Monthly Percentage Difference|[PySpark](https://github.com/ubiswas28/PySpark-Practice-StrataScratch/blob/main/Monthly_Percentage_Difference.py)
+
+ [2111](https://platform.stratascratch.com/coding/2111-sales-growth-per-territory?code_type=6)|Sales_Growth_Per_Territory|[PySpark](https://github.com/ubiswas28/PySpark-Practice-StrataScratch/blob/main/Sales_Growth_Per_Territory.py)
